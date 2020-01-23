@@ -1,6 +1,6 @@
-Enero          January
-Febrero 	February
-Marzo		March
+Enero          Genaio
+Febrero 	Febraio
+Marzo		Marzo
 
 Abril
 Mayo
