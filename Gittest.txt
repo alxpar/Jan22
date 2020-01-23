@@ -1,6 +1,6 @@
-Enero
-Febrero 
-Marzo
+Enero          January
+Febrero 	February
+Marzo		March
 
 Abril
 Mayo
@@ -8,3 +8,5 @@ Junio
 Julio
 
 Agosto
+Septiembre
+
